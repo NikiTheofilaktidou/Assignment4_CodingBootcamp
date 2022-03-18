@@ -1,0 +1,16 @@
+C:\Users\Niki\source\repos\Ass4\DesktopApp\bin\Debug\net5.0\DesktopApp.exe
+C:\Users\Niki\source\repos\Ass4\DesktopApp\bin\Debug\net5.0\DesktopApp.deps.json
+C:\Users\Niki\source\repos\Ass4\DesktopApp\bin\Debug\net5.0\DesktopApp.runtimeconfig.json
+C:\Users\Niki\source\repos\Ass4\DesktopApp\bin\Debug\net5.0\DesktopApp.runtimeconfig.dev.json
+C:\Users\Niki\source\repos\Ass4\DesktopApp\bin\Debug\net5.0\DesktopApp.dll
+C:\Users\Niki\source\repos\Ass4\DesktopApp\bin\Debug\net5.0\ref\DesktopApp.dll
+C:\Users\Niki\source\repos\Ass4\DesktopApp\bin\Debug\net5.0\DesktopApp.pdb
+C:\Users\Niki\source\repos\Ass4\DesktopApp\obj\Debug\net5.0\DesktopApp.csproj.AssemblyReference.cache
+C:\Users\Niki\source\repos\Ass4\DesktopApp\obj\Debug\net5.0\DesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niki\source\repos\Ass4\DesktopApp\obj\Debug\net5.0\DesktopApp.AssemblyInfoInputs.cache
+C:\Users\Niki\source\repos\Ass4\DesktopApp\obj\Debug\net5.0\DesktopApp.AssemblyInfo.cs
+C:\Users\Niki\source\repos\Ass4\DesktopApp\obj\Debug\net5.0\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Niki\source\repos\Ass4\DesktopApp\obj\Debug\net5.0\DesktopApp.dll
+C:\Users\Niki\source\repos\Ass4\DesktopApp\obj\Debug\net5.0\ref\DesktopApp.dll
+C:\Users\Niki\source\repos\Ass4\DesktopApp\obj\Debug\net5.0\DesktopApp.pdb
+C:\Users\Niki\source\repos\Ass4\DesktopApp\obj\Debug\net5.0\DesktopApp.genruntimeconfig.cache
